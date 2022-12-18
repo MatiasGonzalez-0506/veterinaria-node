@@ -1,0 +1,30 @@
+[
+    {
+        "NombreDelAnimal": "beto",
+        "edad": "4",
+        "TipoDeAnimal": "perro",
+        "ColorDelAnimal": "cafe con blanco",
+        "enfermedad": "otitis"
+    },
+    {
+        "NombreDelAnimal": "almendra",
+        "edad": "12",
+        "TipoDeAnimal": "perro",
+        "ColorDelAnimal": "cafe",
+        "enfermedad": "caries"
+    },
+    {
+        "NombreDelAnimal": "loba",
+        "edad": "6",
+        "TipoDeAnimal": "perro",
+        "ColorDelAnimal": "negro",
+        "enfermedad": "obesidad"
+    },
+    {
+        "NombreDelAnimal": "chica",
+        "edad": "3",
+        "TipoDeAnimal": "perro",
+        "ColorDelAnimal": "cafe con blanco",
+        "enfermedad": "estres"
+    }
+]
